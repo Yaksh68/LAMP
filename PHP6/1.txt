@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "Example 2-1:  <br>";
+
+
+echo "<br> Example 2-2:  <br>";
+
+
+?>
+
+</body>
+</html>
